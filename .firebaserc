@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "tata-dance",
+    "staging": "tata-dance",
+    "production": "tata-dance"
+  }
+}
